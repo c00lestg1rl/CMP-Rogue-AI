@@ -2,34 +2,34 @@
 
 ## Team Information
 
-- Team name:
-- Team members:
-- Date:
+- Team name: 
+- Team members: Samantha and Nicole
+- Date: 09/24/26)
 
 ## AI Use
 
 Did your team use an AI tool?
 
-- [ ] Yes
+- [X ] Yes
 - [ ] No
 
 If no, write “No AI tool was used” in the Summary.
 
 ## Tool Used
 
-- Tool:
+- Tool: Copilot model
 
 ## Assistance Requested
 
 What did your team ask the AI to help test or explain?
 
-- Response:
+- Response: We asked the model to test the required tests for our programs and to aks us ot make predictions. 
 
 ## Prediction and Testing
 
 Describe one test the AI suggested. What did the team predict before running it?
 
-- Response:
+- Response: ONe test the AI suggested was temp=101, Power= 21, Security= danger
 
 ## Evaluation
 

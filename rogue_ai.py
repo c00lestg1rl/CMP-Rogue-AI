@@ -27,7 +27,7 @@ else:
 # LEVEL 3 - SECURITY DIAGNOSTIC
 # Ask for the security status and make the required decision.
 security= str(input("enter security status: "))
-if(security == 'danger', 'DANGER'):
+if(security == 'danger', 'DANGER', 'Danger'):
     print("SHUTDOWN REQUIRED")
 else: 
     print("System Secure")
